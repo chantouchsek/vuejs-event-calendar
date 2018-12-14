@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chantouchsek/vuejs-event-calendar"
+    "url": "git+https://github.com/chantouchsek/vuejs-event-calendar.git"
   },
   "main": "dist/index.js",
   "dependencies": {
@@ -41,5 +41,6 @@
   "bugs": {
     "url": "https://github.com/chantouchsek/vuejs-event-calendar/issues"
   },
-  "homepage": "https://bookingkh.com/vuejs-event-calendar"
+  "homepage": "https://bookingkh.com/vuejs-event-calendar",
+  "license": "ISC"
 }
