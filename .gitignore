@@ -81,4 +81,5 @@ dist
 .idea
 package-lock.json
 sw.*
+yarn-error.log
 yarn.lock
